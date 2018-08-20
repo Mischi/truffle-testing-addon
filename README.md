@@ -1,6 +1,6 @@
 # truffle-testing-addon
 
-**DO NOT use this for any serious development**
+**DEPRECATED. Please take a look at [truffle-jest](https://github.com/AsureFoundation/truffle-jest)**
 
 Experimenting with truffle test execution. In particular we would
 like to execute truffle tests with the standard mocha cli instead of
